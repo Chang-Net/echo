@@ -1,6 +1,3 @@
-
-
-```markdown
 # Echo Protocol
 
 A stateless, ultra-lightweight, and minimal protocol designed to sit on top of other protocols for low-data, full-duplex packet communication.
